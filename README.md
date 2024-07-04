@@ -1,2 +1,2 @@
-# OT-Codes
-Optimization Techniques Codes
+# PS-Codes
+Probability and Statistics
